@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Renewable Energy Vanguard Project",
+    "description": "A pioneering effort to transition our energy sources to 100% renewable, reducing our carbon footprint and advancing clean energy technologies for a sustainable future.",
+    "sustainable_development_goals": ["sdg_7"],
+    "amount_gbp": 1000000,
+    "financing_types": [
+      {
+        "type": "debt",
+        "interest_rate": 5,
+        "duration_months": 12
+      },
+      {
+        "type": "equity",
+        "equity": 10
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Ethical Sourcing and Supply Chain Enhancement",
+    "description": "Our commitment to sourcing materials responsibly, ensuring fair labor practices, and improving transparency throughout the supply chain to promote ethical and sustainable business practices.",
+    "sustainable_development_goals": ["sdg_8", "sdg_12"],
+    "amount_gbp": 500000,
+    "financing_types": [
+      {
+        "type": "debt",
+        "interest_rate": 5,
+        "duration_months": 12
+      },
+      {
+        "type": "equity",
+        "equity": 9
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Zero Waste Campus Transformation",
+    "description": "Transforming our campus into a model of sustainability by minimizing waste, recycling, and composting, with the goal of sending zero waste to landfills and reducing our environmental impact.",
+    "sustainable_development_goals": ["sdg_11", "sdg_8"],
+    "amount_gbp": 500000,
+    "financing_types": [
+      {
+        "type": "debt",
+        "interest_rate": 4.2,
+        "duration_months": 48
+      },
+      {
+        "type": "equity",
+        "equity": 11
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Sustainable Agriculture Initiative",
+    "description": "Empowering 50% of our existing farms with eco-friendly practices, promoting organic farming, and safeguarding biodiversity to ensure a resilient and sustainable future for agriculture.",
+    "sustainable_development_goals": ["sdg_2", "sdg_15"],
+    "amount_gbp": 5000000,
+    "financing_types": [
+      {
+        "type": "debt",
+        "interest_rate": 5,
+        "duration_months": 12
+      },
+      {
+        "type": "equity",
+        "equity": 12.5
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Rare Earth Metal Recycling",
+    "description": "A cutting-edge project aimed at recycling and reusing rare earth metals, crucial for modern technology, to reduce mining's environmental impact and secure a stable supply chain.",
+    "sustainable_development_goals": ["sdg_9", "sdg_12"],
+    "amount_gbp": 50000000,
+    "financing_types": [
+      {
+        "type": "debt",
+        "interest_rate": 3,
+        "duration_months": 48
+      },
+      {
+        "type": "equity",
+        "equity": 18
+      }
+    ]
+  }
+]

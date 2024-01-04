@@ -1,0 +1,268 @@
+[
+  {
+    "id": "1",
+    "name": "Marco White",
+    "email": "marco.white@campbell-martinez.com",
+    "preferences": {
+      "financing_type": ["debt"],
+      "sustainable_development_goals": ["sdg_9", "sdg_11", "sdg_12", "sdg_17"],
+      "investment_size": {
+        "min_gbp": 500000,
+        "max_gbp": 1000000
+      }
+    }
+  },
+  {
+    "id": "2",
+    "name": "Thomas Gonzalez",
+    "email": "thomas.gonzalez@christianplc.com",
+    "preferences": {
+      "financing_type": ["equity"],
+      "sustainable_development_goals": ["sdg_6"],
+      "investment_size": {
+        "min_gbp": 100000,
+        "max_gbp": 2000000
+      }
+    }
+  },
+  {
+    "id": "3",
+    "name": "Alan Harrison",
+    "email": "alan.harrison@jamesplc.com",
+    "preferences": {
+      "financing_type": ["debt", "equity"],
+      "sustainable_development_goals": [
+        "sdg_4",
+        "sdg_17",
+        "sdg_14",
+        "sdg_1",
+        "sdg_12"
+      ],
+      "investment_size": {
+        "min_gbp": 500000,
+        "max_gbp": 3000000
+      }
+    }
+  },
+  {
+    "id": "3",
+    "name": "Michelle Contreras",
+    "email": "michelle.contreras@fields-duffy.com",
+    "preferences": {
+      "financing_type": ["equity", "debt"],
+      "sustainable_development_goals": ["sdg_2", "sdg_8"],
+      "investment_size": {
+        "min_gbp": 5000000,
+        "max_gbp": 1000000
+      }
+    }
+  },
+  {
+    "id": "4",
+    "name": "AguirreLtd",
+    "email": "contact@aguirreltd.com",
+    "preferences": {
+      "financing_type": ["debt", "equity"],
+      "sustainable_development_goals": ["sdg_6", "sdg_14", "sdg_13", "sdg_11"],
+      "investment_size": {
+        "min_gbp": 100000,
+        "max_gbp": 500000
+      }
+    }
+  },
+  {
+    "id": "5",
+    "name": "Rose Price",
+    "email": "rose.price@lewis-wall.com",
+    "preferences": {
+      "financing_type": ["debt"],
+      "sustainable_development_goals": ["sdg_7", "sdg_6"],
+      "investment_size": {
+        "min_gbp": 2000000,
+        "max_gbp": 5000000
+      }
+    }
+  },
+  {
+    "id": "6",
+    "name": "Courtney Collins",
+    "email": "courtney.collins@hatfieldandsons.com",
+    "preferences": {
+      "financing_type": ["equity"],
+      "sustainable_development_goals": ["sdg_17", "sdg_7", "sdg_13", "sdg_4"],
+      "investment_size": {
+        "min_gbp": 5000000,
+        "max_gbp": 5100000
+      }
+    }
+  },
+  {
+    "id": "7",
+    "name": "Johnny Dixon",
+    "email": "johnny.dixon@hodges-jones.com",
+    "preferences": {
+      "financing_type": ["debt", "equity"],
+      "sustainable_development_goals": ["sdg_8", "sdg_10"],
+      "investment_size": {
+        "min_gbp": 100000,
+        "max_gbp": 500000
+      }
+    }
+  },
+  {
+    "id": "8",
+    "name": "Vernon Morton",
+    "email": "vernon.morton@miller-sandoval.com",
+    "preferences": {
+      "financing_type": ["equity"],
+      "sustainable_development_goals": ["sdg_10", "sdg_14"],
+      "investment_size": {
+        "min_gbp": 2000000,
+        "max_gbp": 5000000
+      }
+    }
+  },
+  {
+    "id": "9",
+    "name": "Joshua Roth",
+    "email": "joshua.roth@lindseycookandcharles.com",
+    "preferences": {
+      "financing_type": ["equity"],
+      "sustainable_development_goals": ["sdg_16", "sdg_6", "sdg_10", "sdg_4"],
+      "investment_size": {
+        "min_gbp": 1000000,
+        "max_gbp": 5000000
+      }
+    }
+  },
+  {
+    "id": "10",
+    "name": "Rhonda Rodriguez",
+    "email": "rhonda.rodriguez@ortizjohnsonandsilva.com",
+    "preferences": {
+      "financing_type": ["debt", "equity"],
+      "sustainable_development_goals": ["sdg_7", "sdg_8", "sdg_5"],
+      "investment_size": {
+        "min_gbp": 1000000,
+        "max_gbp": 2000000
+      }
+    }
+  },
+  {
+    "id": "11",
+    "name": "Tyler Miranda",
+    "email": "tyler.miranda@sandersinc.com",
+    "preferences": {
+      "financing_type": ["equity", "debt"],
+      "sustainable_development_goals": ["sdg_12"],
+      "investment_size": {
+        "min_gbp": 2000000,
+        "max_gbp": 5000000
+      }
+    }
+  },
+  {
+    "id": "12",
+    "name": "James Carey",
+    "email": "james.carey@benson-anderson.com",
+    "preferences": {
+      "financing_type": ["debt"],
+      "sustainable_development_goals": ["sdg_10"],
+      "investment_size": {
+        "min_gbp": 100000,
+        "max_gbp": 1000000
+      }
+    }
+  },
+  {
+    "id": "13",
+    "name": "Emily Ramirez",
+    "email": "emily.ramirez@leeinc.com",
+    "preferences": {
+      "financing_type": ["debt", "equity"],
+      "sustainable_development_goals": ["sdg_17", "sdg_8", "sdg_6", "sdg_14"],
+      "investment_size": {
+        "min_gbp": 100000,
+        "max_gbp": 500000
+      }
+    }
+  },
+  {
+    "id": "14",
+    "name": "Amy Jones",
+    "email": "amy.jones@evansplc.com",
+    "preferences": {
+      "financing_type": ["equity", "debt"],
+      "sustainable_development_goals": ["sdg_2", "sdg_4", "sdg_11"],
+      "investment_size": {
+        "min_gbp": 500000,
+        "max_gbp": 1000000
+      }
+    }
+  },
+  {
+    "id": "15",
+    "name": "Jeremiah Norman",
+    "email": "jeremiah.norman@martinplc.com",
+    "preferences": {
+      "financing_type": ["equity", "debt"],
+      "sustainable_development_goals": ["sdg_12", "sdg_7", "sdg_5", "sdg_15"],
+      "investment_size": {
+        "min_gbp": 1000000,
+        "max_gbp": 5000000
+      }
+    }
+  },
+  {
+    "id": "16",
+    "name": "Kimberly Barnett",
+    "email": "kimberly.barnett@gonzalesplc.com",
+    "preferences": {
+      "financing_type": ["debt", "equity"],
+      "sustainable_development_goals": ["sdg_14", "sdg_16"],
+      "investment_size": {
+        "min_gbp": 1000000,
+        "max_gbp": 5000000
+      }
+    }
+  },
+  {
+    "id": "17",
+    "name": "Benjamin_gbp Skinner",
+    "email": "benjamin_gbp.skinner@garrison-allen.com",
+    "preferences": {
+      "financing_type": ["debt", "equity"],
+      "sustainable_development_goals": ["sdg_2", "sdg_7"],
+      "investment_size": {
+        "min_gbp": 500000,
+        "max_gbp": 1000000
+      }
+    }
+  },
+  {
+    "id": "18",
+    "name": "William Maldonado",
+    "email": "william.maldonado@mcdonaldgroup.com",
+    "preferences": {
+      "financing_type": ["equity", "debt"],
+      "sustainable_development_goals": ["sdg_2", "sdg_5", "sdg_16"],
+      "investment_size": {
+        "min_gbp": 500000,
+        "max_gbp": 2000000
+      }
+    }
+  },
+  {
+    "id": "19",
+    "name": "Paul Green",
+    "email": "paul.green@mccoyinc.com",
+    "preferences": {
+      "financing_type": ["debt"],
+      "sustainable_development_goals": ["sdg_8", "sdg_13", "sdg_6", "sdg_14"],
+      "investment_size": {
+        "min_gbp": 1000000,
+        "max_gbp": 5000000
+      }
+    }
+  }
+]

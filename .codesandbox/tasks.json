@@ -1,0 +1,31 @@
+{
+  "$schema": "https://codesandbox.io/schemas/tasks.json",
+  "setupTasks": [
+    {
+      "name": "install npm deps",
+      "command": "cd frontend && npm install"
+    },
+    {
+      "name": "install python deps",
+      "command": "cd backend && pip install -r requirements.txt"
+    }
+  ],
+  "tasks": {
+    "start_backend": {
+      "name": "start backend",
+      "command": "cd backend && python app.py",
+      "runAtStart": true,
+      "preview": {
+        "port": 5000
+      }
+    },
+    "start_frontend": {
+      "name": "start frontend",
+      "command": "cd frontend && npm run dev",
+      "runAtStart": true,
+      "preview": {
+        "port": 3000
+      }
+    }
+  }
+}
