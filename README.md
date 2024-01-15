@@ -48,8 +48,10 @@ You should now display the matching projects, sorted by score, in the client app
 
 A basic NextJS application has been created in `frontend/app`, and a barebones React page component exists at `frontend/app/app/page.tsx`.
 
+### Task 3: Display the investments in the app
+
 If an investor rejects an investment, it should stop appearing in the UI. This can be persisted locally for now.
 
-### Task 3: Display yield on debt investments
+### Task 4: Display yield on debt investments
 
 You should now update the application to show potential yield for debt-financing investments.
