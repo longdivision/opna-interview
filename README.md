@@ -40,7 +40,7 @@ A project is only a match if it has non-zero SGD and non-zero investment size sc
 
 To get started:
 - The data for investors and projects is in `backend/data`.
-- A placeholder API has been implemented with express in `backend/app.py`.
+- A placeholder API has been implemented with Flask in `backend/app.py`.
 
 ### Task 2: Display the investments in the app
 
